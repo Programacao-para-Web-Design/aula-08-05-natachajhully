@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang = "pt-br">
+	<head>
+		<meta charset = "utf-8">
+	<style>
+h1 {
+font-weight: bold;
+padding: 16pt;
+text-align: center;
+}
+p {
+font-weight: bold;
+padding: 16pt;
+text-align: center;
+}
+img {
+margin-top: -10px;
+margin-left: 660px
+}
+meio {
+margin-top: -10px;
+margin-left: 15000px
+}
+
+	</style>
+		
+	</head>
+	<body>
+		<header>
+			<h1>CEEMTI BAIXO GUANDU</h1>
+			<div class="img">
+				<img src="file:///D:/Meus%20Documentos/Aluno/Desktop/natacha%203ipi/Logo%20Escola.png">
+			</div>
+		</header>
+		
+		<main>
+			<p> Programação Web Design </p>
+			<div class="meio">
+				<img src="file:///D:/Meus%20Documentos/Aluno/Desktop/natacha%203ipi/feira%202%20emasp/ygona-moura-1611175246108_v2_450x600.jpg.webp">
+			</div>
+		</main>
+
+		<footer>
+			<p>natacha</p>
+		</footer>
+	</body>
